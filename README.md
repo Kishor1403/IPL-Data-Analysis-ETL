@@ -13,7 +13,7 @@ To build a scalable ETL pipeline that:
 - Extracts raw cricket match data from an **Amazon S3 bucket**
 - Transforms it using **PySpark** (e.g., calculating high-impact events)
 - Loads and exports the processed data for local use
-- Visualizes final insights in **PowerPoint**
+- Visualizes final insights in **tableau**
 
 ---
 
@@ -24,7 +24,7 @@ To build a scalable ETL pipeline that:
 | Storage  | Amazon S3 (public bucket) |
 | Compute  | Databricks Community Edition |
 | Language | PySpark (Python + Apache Spark) |
-| Visualization | PowerPoint (manual or script-generated graphs) |
+| Visualization |tableau |
 
 ---
 
@@ -49,5 +49,5 @@ To build a scalable ETL pipeline that:
                    |
                    ▼
          +--------------------+
-         | PowerPoint Charts  |
+         |   tableau Charts   |
          +--------------------+
