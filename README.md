@@ -1,13 +1,13 @@
 # IPL-Data-Analysis-ETL
 ## End to End ETL Pipeline Project using PySpark and Databricks
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates a complete **ETL (Extract-Transform-Load)** pipeline using **Amazon S3**, **Databricks (Community Edition)**, and **PySpark**. The final insights are exported and visualized using **PowerPoint**, making this a full-stack data engineering and visualization workflow for Big Data.
 
 ---
 
-## 📊 Objective
+##  Objective
 
 To build a scalable ETL pipeline that:
 - Extracts raw cricket match data from an **Amazon S3 bucket**
@@ -17,7 +17,7 @@ To build a scalable ETL pipeline that:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Component | Tool/Technology |
 |----------|----------------|
@@ -28,7 +28,7 @@ To build a scalable ETL pipeline that:
 
 ---
 
-## 🧱 Project Architecture
+##  Project Architecture
 
 ```plaintext
              +------------+
