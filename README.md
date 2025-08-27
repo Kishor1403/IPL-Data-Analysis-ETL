@@ -21,7 +21,7 @@ To build a scalable ETL pipeline that:
 
 | Component | Tool/Technology |
 |----------|----------------|
-| Storage  | Amazon S3 (public bucket) |
+| Storage  | Amazon S3  |
 | Compute  | Databricks Community Edition |
 | Language | PySpark (Python + Apache Spark) |
 | Visualization |tableau |
